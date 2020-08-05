@@ -694,7 +694,7 @@ border-radius: 4px;
     pointer-events: none;
 }
     
-.style-form{
+.modal{
     position: absolute;
     top: 50%;
     left: 50%; 
